@@ -14,7 +14,6 @@
 <em>
 <a href="https://twitter.com/gustagabe" target="_blank"><img align="center" alt="IG" height="30" width="40" src="https://user-images.githubusercontent.com/103728603/163567172-b9523cea-6208-4d1f-b540-0eb0411501ff.svg" target="_blank"></a>
 
-<img align="center" src="https://user-images.githubusercontent.com/106285785/170396833-0bfa05af-bb99-4b10-bf40-88b0d45bcecc.gif">
 
  <img align="center" alt="J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
