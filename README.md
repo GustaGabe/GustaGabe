@@ -1,17 +1,24 @@
-## Hello World 🌎
-- 👨‍💻 Front-End Developer 
-
-##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaGabe&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaGabe&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-##
-<div align="center">
-<a href="https://www.instagram.com/gustagabe/" target="_blank"><img align="center" alt="IG" height="30" width="40" src="https://user-images.githubusercontent.com/103728603/163566815-ef3aa04a-c766-45bd-b62c-f5bfafaa6400.svg" target="_blank"></a> 
-<em>
-<a href="https://twitter.com/gustagabe" target="_blank"><img align="center" alt="IG" height="30" width="40" src="https://user-images.githubusercontent.com/103728603/163567172-b9523cea-6208-4d1f-b540-0eb0411501ff.svg" target="_blank"></a>
+### Olá meu nome é Gustavo! 👨🏼‍💻
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/xugs5c97b6gyfb9u89b6daho8)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+<br/>
 
 
- <img align="center" alt="J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div>
+   <a href="https://github.com/Gusstagabe">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gusstagabe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusstagabe&layout=compact&langs_count=6&theme=tokyonight"/>
+
+</div>
+
+<hr>
+
+### Tecnologia que eu uso no meu dia a dia 📝
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+<br/>
+Apaixonado por Programação, procurando seguir nessa carreira
