@@ -1,8 +1,5 @@
 ## Hello World 🌎
-- 👨‍💻 Future programmer
-- 🎮 Video game player
-- 🏋🏼‍♀️ GYM enthusiast
-- 🎓 Always studying
+- 👨‍💻 Front-End Developer 
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaGabe&show_icons=true&theme=dark)
