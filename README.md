@@ -1,7 +1,7 @@
 ### Olá meu nome é Gustavo! 👨🏼‍💻
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/xugs5c97b6gyfb9u89b6daho8)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white )](https://open.spotify.com/user/xugs5c97b6gyfb9u89b6daho8)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white )](https://open.spotify.com/user/xugs5c97b6gyfb9u89b6daho8)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198351795776)
 <br/>
 
 
