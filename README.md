@@ -16,7 +16,7 @@
 
 ### Tecnologia que eu uso no meu dia a dia 📝
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,vscode,figma&theme=dark)](https://skillicons.dev)
 
 <br/>
 Apaixonado por Programação, procurando seguir nessa carreira
