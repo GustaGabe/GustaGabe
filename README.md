@@ -1,4 +1,4 @@
-## Welcome to my profile!
+# Welcome to my profile!
 I am Front-End Developer focusing on ReactJS and NextJS
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/xugs5c97b6gyfb9u89b6daho8)
