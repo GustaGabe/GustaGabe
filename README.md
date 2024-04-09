@@ -1,5 +1,5 @@
-# 🤘 Hi i'm Gusta:
-"I am a Front-End Developer specializing in ReactJS and NextJS. My journey began in mid-2022 when I stumbled upon an advertisement for game development courses. Intrigued, I delved into programming and quickly found my passion in the world of Front-End development.
+# 🤘 Hi i'm Gusta
+I am a Front-End Developer specializing in ReactJS and NextJS. My journey began in mid-2022 when I stumbled upon an advertisement for game development courses. Intrigued, I delved into programming and quickly found my passion in the world of Front-End development.
 
 
 ## 🌍 Socials:
