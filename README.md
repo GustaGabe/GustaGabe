@@ -9,7 +9,7 @@ I am a Front-End Developer specializing in ReactJS and NextJS. My journey began 
 # 📊 GitHub Stats:
 [![GustaGabe's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=GustaGabe&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/GustaGabe)
 <br>
-[![GustaGabe Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=GustaGabe&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&range=all_time)](https://wakatime.com/@GustaGabe)
+[![gustagabe's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gustagabe&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&range=all_time)](https://wakatime.com/@GustaGabe)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GustaGabe&icon=2&color=0)](https://visitcount.itsvg.in)
