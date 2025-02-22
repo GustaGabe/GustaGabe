@@ -1,16 +1,23 @@
-# 🤘 Hi i'm Gusta
-I am a Front-End Developer specializing in ReactJS and NextJS. My journey began in mid-2022 when I stumbled upon an advertisement for game development courses. Intrigued, I delved into programming and quickly found my passion in the world of Front-End development.
+
+## 📌 Hi i'm Gusta
+
+My name is Gustavo, and I'm a passionate Front-End developer from Brazil. My goal is to continuously improve my skills and build amazing web experiences.
+
+I started my tech journey in 2022 with game development but soon shifted my focus to web development. Since then, I've been diving deep into HTML, CSS, JavaScript, and React, learning from platforms like Curso em Vídeo and Alura.
 
 
-## 🌍 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/GustaGabe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-gabriel-6ab171240) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gusta6695) 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-[![GustaGabe's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=GustaGabe&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/GustaGabe)
-<br>
-[![gustagabe's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gustagabe&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&range=all_time)](https://wakatime.com/@GustaGabe)
+## 💻 Detailed information
+- Name: Gustavo
+- Age : 19
+- Experience: Programming since 16, professionally since 2022
+- Stack: HTML - CSS - JavaScript - React - TypeScript - NextJs - Tailwindcss - SASS
+- Learning: Advanced Front-End techniques & React best practices
+- Background: Started in game development, then transitioned to web development
+- Goal: Master Front-End development and build high-quality applications
+## 🎭 Curiosities about me
+- I love play pokemon
+- My favorite game is Terraria
+- I'm always up for a challenge, and right now, my biggest one is acing my React interview!
+- I believe in sharing knowledge and helping other developers grow, just like I was helped when I started.
 
----
-[![](https://visitcount.itsvg.in/api?id=GustaGabe&icon=2&color=0)](https://visitcount.itsvg.in)
-
+![https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
